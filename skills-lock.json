@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "etherscan-flow": {
+      "source": "etherscan/skills",
+      "sourceType": "github",
+      "skillPath": "skills/etherscan-flow/SKILL.md",
+      "computedHash": "7d8275f6dde4ee5ea90a4536e5387437aaf80abac6fc004fdf248a3b6ce3f12d"
+    }
+  }
+}
