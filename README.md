@@ -48,3 +48,6 @@ This document serves as the supreme institutional attestation of repository stat
 
 * **Compliance Status:** Fully Synchronized, Absorbed & Locked.
 * **Operational Directive:** Never delete, only absorb. The ledger is eternal.
+
+
+## Agentic Swarm Extension: OpenCode AI & Hermes Active [Invariant: 712231952]
