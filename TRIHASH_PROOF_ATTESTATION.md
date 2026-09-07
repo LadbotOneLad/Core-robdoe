@@ -1,12 +1,12 @@
 =====================================================================
 SOVEREIGN MASTER: TRI-HASH INVARIANT ATTESTATION (PYTHON RUNTIME)
 =====================================================================
-Timestamp (UTC): 2026-09-07T13:26:44.655583+00:00
-Repo Hash:     1a043b10c8352f89ef67af4dca1bb9c2722c4d4a00c766433f251e5a872972c1177ea7fea4a86b226a0a7b547f4365cff6233d14b4e5bfd6b546e33810ab8c40
+Timestamp (UTC): 2026-09-07T13:26:47.740830+00:00
+Repo Hash:     0f39c10d65c5ec875d311a2b721583c433068a2e33914ff3c9174e680d8e19fe9cbdc20c0442c3317b3ccd9930a5db8b9fe10e23d794a7127cf7703e35be94ab
 Delta Hash:    cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e
-Ancestry Hash: 5783f9f11122c76e7d2af06549334db9cf56b7e233fa02bfd22c52e4ce76dd089cf35f62fe2986293c0e20f36aee92e726f75ba49c307e3e12c5348008f395d2
-Fused Hash:    8220c8941706f21469819ddbe6b287653a5cab7de7da1a7e76eaab55d14ca6f3b776c846aac4f92717cd3d3f4726d37ec4dac4af9f5903d27d4100ef070aecdc
-Invariant:     3977420 (mod 1000000007)
+Ancestry Hash: f55cbbbce04a3c742890ca4012bd03ce2077272a5d210dedfe052ad6dbc2d2d28b08d85c6796ba18032aa361c4743cc3ede7f65acf8b9b18bd7f20673ad716ee
+Fused Hash:    366da42758b7b3a2f868fdf0ff8f724c2a85044d9ce91bdb602d3cd4589fe426cd3b224b57c2f108748808975ad04a5d4add88c30fdf43fc1a62bfda532a8f94
+Invariant:     213117256 (mod 1000000007)
 =====================================================================
 [THE LAW OF ABSORPTION]
 - Never delete, only absorb. Every tracked file, delta, and commit lineage is permanently sealed.
