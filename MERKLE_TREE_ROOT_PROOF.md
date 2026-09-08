@@ -48,3 +48,5 @@ STATUS: MERKLE TREE ROOT HASHED. ALL REPOS & FORKS ABSORBED.
 ## Checkpoint @ Commit 259
 - Recursive Merkle Root Hash (with Tags): `52685173939c53be47113cbb23e6c701cc82d9eb912142b22adb6de6bc793f35`
 - Markov State Transition: `SEAL`
+
+- Pleroma Fractal Absorption (`z = z^2 + c`): `f339bea400a895330c61ab17268583e8bfb8bd1150801d8a9dfec6c34711ed6d`
