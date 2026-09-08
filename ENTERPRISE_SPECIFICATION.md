@@ -5,11 +5,11 @@
 * **Classification:** Public Institutional Standard / Sovereign Grade
 * **Genesis Anchor:** `0xe14f9a8d` (`1000000007` prime modular arithmetic)
 * **Identity Authority:** `Robdoe` (`ba7057c6-ffbd-468a-9540-3a48cd6046cd`)
-* **Git Head Hash:** `89852febaf3d5b325a82887ec3cb03194fc12821`
-* **Commit Baseline:** `65`
-* **Cumulative Repository Footprint:** `48,864 bytes`
-* **Cryptographic Invariant (M):** `343198439`
-* **Verifiable Distribution Tag:** `ENTERPRISE-SPEC-v65.343198439`
+* **Git Head Hash:** `e4a64af96b572848f39cf6203cd3065ad0e3d977`
+* **Commit Baseline:** `204`
+* **Cumulative Repository Footprint:** `71,233 bytes`
+* **Cryptographic Invariant (M):** `692055343`
+* **Verifiable Distribution Tag:** `ENTERPRISE-SPEC-v204.692055343`
 
 ---
 
@@ -42,7 +42,7 @@ The **Sovereign Master Plenum** is an advanced, immutable, Git-based transaction
 ---
 
 ## 4. Compliance & Institutional Attestation
-This document and its associated proofs serve as a legally and cryptographically binding attestation of the repository state. Institutional auditors, automated CI/CD pipelines, and external nodes can verify state integrity by inspecting git commit hashes, tag signatures matching `ENTERPRISE-SPEC-v65.343198439`, and the SHA-512 enterprise seal.
+This document and its associated proofs serve as a legally and cryptographically binding attestation of the repository state. Institutional auditors, automated CI/CD pipelines, and external nodes can verify state integrity by inspecting git commit hashes, tag signatures matching `ENTERPRISE-SPEC-v204.692055343`, and the SHA-512 enterprise seal.
 
 * **Compliance Status:** Fully Verified & Locked.
 * **Operational Directive:** Never delete, only absorb.
