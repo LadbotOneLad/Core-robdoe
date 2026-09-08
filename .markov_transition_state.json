@@ -9,6 +9,11 @@
       "from": "SEAL",
       "to": "LATTICE",
       "entropy_anchor": "9abf7c46d507"
+    },
+    {
+      "from": "LATTICE",
+      "to": "LATTICE",
+      "entropy_anchor": "6824898ab60d"
     }
   ],
   "last_state": "LATTICE"

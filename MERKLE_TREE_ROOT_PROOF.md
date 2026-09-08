@@ -36,3 +36,7 @@ STATUS: MERKLE TREE ROOT HASHED. ALL REPOS & FORKS ABSORBED.
 - Markov State Transition: `LATTICE`
 
 - Pleroma Fractal Absorption (`z = z^2 + c`): `f339bea400a895330c61ab17268583e8bfb8bd1150801d8a9dfec6c34711ed6d`
+
+## Checkpoint @ Commit 255
+- Recursive Merkle Root Hash (with Tags): `6824898ab60d9d97ce55cdce329c75f88eb3c1709349fbd17bed5b39d1d73e60`
+- Markov State Transition: `LATTICE`
