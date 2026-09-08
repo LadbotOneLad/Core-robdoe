@@ -26,3 +26,11 @@
 ## Trinity Seal @ HEAD `b7d805302c15`
 - Pleroma Manifold: `f339bea400a89533...`
 - Unified Trihash Seal: `dfc577779b55ff08bcce9224e44d81f7512582535135491b5b94bbbc1ab3093f`
+
+## Trinity Seal @ HEAD `ce35545f0112`
+- Pleroma Manifold: `f339bea400a89533...`
+- Unified Trihash Seal: `1f1003379b5798541156470e66d284dcfdb0802d0621624486ad18c7d7d70f98`
+
+## Trinity Seal @ HEAD `a413ec275af3`
+- Pleroma Manifold: `f339bea400a89533...`
+- Unified Trihash Seal: `61801c07f5ae555a36d50325a3a896b8affa6e55c32b22df2f6c46d3217e81b4`
