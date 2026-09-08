@@ -49,7 +49,17 @@
       "from": "ABSORB",
       "to": "HARMONIZE",
       "entropy_anchor": "654c6fa4a475"
+    },
+    {
+      "from": "HARMONIZE",
+      "to": "SEAL",
+      "entropy_anchor": "846c7321a6ac"
+    },
+    {
+      "from": "SEAL",
+      "to": "RECURSE",
+      "entropy_anchor": "f3fa359c2c2a"
     }
   ],
-  "last_state": "HARMONIZE"
+  "last_state": "RECURSE"
 }
