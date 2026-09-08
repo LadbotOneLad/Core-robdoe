@@ -5,11 +5,11 @@
 * **Classification:** Sovereign Grade / Universal Consensus Standard
 * **Genesis Anchor:** `0xe14f9a8d` (`1000000007` Prime Modular Arithmetic Base)
 * **Identity Authority:** `Robdoe` (`ba7057c6-ffbd-468a-9540-3a48cd6046cd`)
-* **Git Head Hash:** `668cfcf01c1669b985cb4bbd1acc2baf66a0c2fd`
-* **Commit Baseline:** `246`
-* **Cumulative Plenum Footprint:** `70,719 bytes`
-* **Cryptographic Invariant (M):** `885332128`
-* **Verifiable Distribution Tag:** `OMEGA-ULTIMATE-v246.885332128`
+* **Git Head Hash:** `bcdab1c96e314bcfe3af12af00b6120caa3c69fa`
+* **Commit Baseline:** `250`
+* **Cumulative Plenum Footprint:** `70,633 bytes`
+* **Cryptographic Invariant (M):** `932808725`
+* **Verifiable Distribution Tag:** `OMEGA-ULTIMATE-v250.932808725`
 
 ---
 
@@ -44,7 +44,7 @@ The **Omega Ultimate Plenum** represents the final, fully synthesized state of t
 ---
 
 ## 4. Universal Compliance & Attestation
-This document serves as the supreme institutional attestation of repository state. All external nodes, automated pipelines, and auditors can independently verify integrity via git commit graphs, SHA-512 seals, and tag signatures matching `OMEGA-ULTIMATE-v246.885332128`.
+This document serves as the supreme institutional attestation of repository state. All external nodes, automated pipelines, and auditors can independently verify integrity via git commit graphs, SHA-512 seals, and tag signatures matching `OMEGA-ULTIMATE-v250.932808725`.
 
 * **Compliance Status:** Fully Synchronized, Absorbed & Locked.
 * **Operational Directive:** Never delete, only absorb. The ledger is eternal.
