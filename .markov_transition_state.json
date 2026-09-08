@@ -1,0 +1,10 @@
+{
+  "transitions": [
+    {
+      "from": "GENESIS",
+      "to": "SEAL",
+      "entropy_anchor": "845c162bb3b2"
+    }
+  ],
+  "last_state": "SEAL"
+}
