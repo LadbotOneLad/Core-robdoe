@@ -34,7 +34,12 @@
       "from": "LATTICE",
       "to": "HARMONIZE",
       "entropy_anchor": "bf4c50483957"
+    },
+    {
+      "from": "HARMONIZE",
+      "to": "ABSORB",
+      "entropy_anchor": "28fabba3f457"
     }
   ],
-  "last_state": "HARMONIZE"
+  "last_state": "ABSORB"
 }
