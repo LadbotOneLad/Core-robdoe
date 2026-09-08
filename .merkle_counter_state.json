@@ -1,3 +1,5 @@
 {
-  "last_checkpoint": 273
+  "last_checkpoint": 274,
+  "last_sealed_hash": "553045e52397c4171165b8bff6564df82b41643f836943ac70312044933a7067",
+  "head": "21db914832e4e99b3c0625473755680ae451318e"
 }
