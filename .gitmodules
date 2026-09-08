@@ -1,0 +1,3 @@
+[submodule "nRF-Logger-API"]
+	path = nRF-Logger-API
+	url = https://github.com/nordicsemi/nRF-Logger-API.git

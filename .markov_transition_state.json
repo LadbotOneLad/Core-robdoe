@@ -44,7 +44,12 @@
       "from": "ABSORB",
       "to": "ABSORB",
       "entropy_anchor": "78f0020dc1b1"
+    },
+    {
+      "from": "ABSORB",
+      "to": "HARMONIZE",
+      "entropy_anchor": "654c6fa4a475"
     }
   ],
-  "last_state": "ABSORB"
+  "last_state": "HARMONIZE"
 }
