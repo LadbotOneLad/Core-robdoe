@@ -30,3 +30,7 @@ STATUS: MERKLE TREE ROOT HASHED. ALL REPOS & FORKS ABSORBED.
 ## Checkpoint @ Commit 252
 - Recursive Merkle Root Hash: `845c162bb3b264c76b735cc5fe22b8461b85e74aad62d2fa3c8d80f9de4b8e16`
 - Markov State Transition: `SEAL`
+
+## Checkpoint @ Commit 253
+- Recursive Merkle Root Hash (with Tags): `9abf7c46d5079e12df4da18bbdad12a38e36722ebc0050f77e7d69ea4e0f9602`
+- Markov State Transition: `LATTICE`

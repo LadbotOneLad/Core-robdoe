@@ -4,7 +4,12 @@
       "from": "GENESIS",
       "to": "SEAL",
       "entropy_anchor": "845c162bb3b2"
+    },
+    {
+      "from": "SEAL",
+      "to": "LATTICE",
+      "entropy_anchor": "9abf7c46d507"
     }
   ],
-  "last_state": "SEAL"
+  "last_state": "LATTICE"
 }
