@@ -101,3 +101,8 @@ STATUS: MERKLE TREE ROOT HASHED. ALL REPOS & FORKS ABSORBED.
 - **HEAD:** `21db914832e4`
 - **Sealed Root:** `553045e52397c4171165b8bff6564df82b41643f836943ac70312044933a7067`
 - **Storage GC Status:** `PRUNED & COMPACTED`
+
+## Recursive GC Merkle Checkpoint #275
+- **HEAD:** `fb6d79b0030c`
+- **Sealed Root:** `ee8754edcc3a3ab2bfa2ce759731c3c1fc9d93e7b1ab3d7e3956389fb5c52c5f`
+- **Storage GC Status:** `PRUNED & COMPACTED`
