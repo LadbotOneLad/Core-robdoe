@@ -2,11 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/* ============================================================================
-   SOVEREIGN 3-SYSTEM BINARY MATRIX
-   1. Merkle Engine  2. 5D Fisheye Gas Engine  3. Dual-Account GPG Attest
-   ============================================================================ */
-
 void verify_merkle_root(const char* root) {
     printf("[SYS-1: MERKLE] Root Hash Verified: %s\n", root);
 }
